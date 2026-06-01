@@ -1,0 +1,1 @@
+importScripts("/stupendo-sw.js");

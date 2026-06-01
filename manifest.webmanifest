@@ -1,0 +1,24 @@
+{
+  "name": "Stupendo",
+  "short_name": "Stupendo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061a33",
+  "theme_color": "#061a33",
+  "description": "Gestion Stupendo: agenda, finanzas e impuestos.",
+  "icons": [
+    {
+      "src": "stupendo-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "stupendo-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
